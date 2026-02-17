@@ -3,7 +3,7 @@
 
 #### 7) Create a README file to answer the following questions-
 
-<!-- Question and Answer part are given below: -->
+Question and Answer part are given below:
 
 #### 1) What is the difference between `null` and `undefined`?
 Ans: `Undefined` means when developer write code but didn't assigned the value then by default JavaScript add the output
