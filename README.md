@@ -1,5 +1,42 @@
 ## WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT (SwiftCart E-Commerce)
 
+Question and Answer part are given below:
+
+#### 7) Create a README file to answer the following questions-
+
+> **⚠️ Warning:** Do not use any AI tools to answer these questions. You must write the answers in **Bangla**.
+
+#### 1) What is the difference between `null` and `undefined`?
+Ans: `Undefined` means when developer write code but didn't assigned the value then by default JavaScript add the output
+undefined.
+
+`Null` means when developer intentionally need to empty value that time developer uses null value. 
+
+#### 2) What is the use of the `map()` function in JavaScript? How is it different from `forEach()`?
+ans: `map()` use when it's need to modify an array or a specific action. It doesn't change the original action and it's returns new action.
+
+`map()` returns a new action and doesn't change the previous one.
+
+`forEach()`  just run the action but it doesn't return anything .
+
+#### 3) What is the difference between `==` and `===`?
+Ans: `==` double equal only check values , if values are same it's output the value "True". Because double equal covert string value in number then compare it same or not.
+
+`===` triple equal at the same time check data type and value. If both are same it's returns "True" if not then it's returns "False" .
+
+#### 4) What is the significance of `async`/`await` in fetching API data?
+Ans: The significance of `async` and `await` is  that they handle error to easier way. They makes fetching API data easy to read and write. `async` and `await` is make code shorter , without them coder need to use `.then()` multiple times.
+
+#### 5) Explain the concept of Scope in JavaScript (Global, Function, Block).
+Ans: The concept of Scope in JavaScript (Global, Function, Block) is given below:
+
+`Global` can access in anywhere of the code. It's variable declared outside of any function or block.
+
+`Function` only used inside of the function code. It's variable declared only inside in a function.It can't access outside of the function.
+
+`Block` used only curly brackets like any statement or loop function.
+
+
 
 ## Repository: Create your own public repository and submit the link.
 
@@ -65,19 +102,6 @@ https://fakestoreapi.com/products/1
 - Website must be **mobile responsive** 
 
 ---
-#### 7) Create a README file to answer the following questions-
-
-> **⚠️ Warning:** Do not use any AI tools to answer these questions. You must write the answers in **Bangla**.
-
-#### 1) What is the difference between `null` and `undefined`?
-
-#### 2) What is the use of the `map()` function in JavaScript? How is it different from `forEach()`?
-
-#### 3) What is the difference between `==` and `===`?
-
-#### 4) What is the significance of `async`/`await` in fetching API data?
-
-#### 5) Explain the concept of Scope in JavaScript (Global, Function, Block).
 
 ## ⚡ Dynamic Features & Functionalities
 
