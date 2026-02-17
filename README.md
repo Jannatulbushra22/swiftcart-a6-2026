@@ -1,10 +1,9 @@
 ## WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT (SwiftCart E-Commerce)
 
-Question and Answer part are given below:
 
 #### 7) Create a README file to answer the following questions-
 
-> **⚠️ Warning:** Do not use any AI tools to answer these questions. You must write the answers in **Bangla**.
+<!-- Question and Answer part are given below: -->
 
 #### 1) What is the difference between `null` and `undefined`?
 Ans: `Undefined` means when developer write code but didn't assigned the value then by default JavaScript add the output
